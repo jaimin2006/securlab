@@ -1,0 +1,6 @@
+{
+  "name": "SecurLab - Web Application Security & OWASP Academic Suite",
+  "description": "Comprehensive academic cybersecurity platform covering network probing, WAF architectures, OWASP Top 10, Burp Suite workflows, vulnerability analysis, and penetration testing lab report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
